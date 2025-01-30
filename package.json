@@ -1,0 +1,19 @@
+{
+  "name": "practice-01",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "deploy": "vercel"
+  },
+  "devDependencies": {
+    "vite": "^6.0.5"
+  },
+  "dependencies": {
+    "lil-gui": "^0.20.0",
+    "three": "^0.172.0",
+    "vercel": "^39.4.2"
+  }
+}
